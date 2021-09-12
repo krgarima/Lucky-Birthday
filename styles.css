@@ -1,5 +1,4 @@
-body
-{
+body {
     text-align: center;
     font-size: large;
     background-color: aquamarine;
@@ -7,7 +6,6 @@ body
     padding: 3rem 3rem;
 }
 
-h1
-{
+h1 {
     color: rgb(32, 113, 116);
 }
